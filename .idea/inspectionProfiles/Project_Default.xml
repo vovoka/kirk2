@@ -1,0 +1,94 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="73">
+            <item index="0" class="java.lang.String" itemvalue="aiohttp-jinja2" />
+            <item index="1" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="2" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="3" class="java.lang.String" itemvalue="multidict" />
+            <item index="4" class="java.lang.String" itemvalue="yarl" />
+            <item index="5" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="6" class="java.lang.String" itemvalue="attrs" />
+            <item index="7" class="java.lang.String" itemvalue="cffi" />
+            <item index="8" class="java.lang.String" itemvalue="ed25519" />
+            <item index="9" class="java.lang.String" itemvalue="bsdiff4" />
+            <item index="10" class="java.lang.String" itemvalue="psutil" />
+            <item index="11" class="java.lang.String" itemvalue="PyUpdater" />
+            <item index="12" class="java.lang.String" itemvalue="shiboken2" />
+            <item index="13" class="java.lang.String" itemvalue="regex" />
+            <item index="14" class="java.lang.String" itemvalue="python-language-server" />
+            <item index="15" class="java.lang.String" itemvalue="python-jsonrpc-server" />
+            <item index="16" class="java.lang.String" itemvalue="PySide2" />
+            <item index="17" class="java.lang.String" itemvalue="ujson" />
+            <item index="18" class="java.lang.String" itemvalue="Pillow" />
+            <item index="19" class="java.lang.String" itemvalue="altgraph" />
+            <item index="20" class="java.lang.String" itemvalue="protobuf" />
+            <item index="21" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="22" class="java.lang.String" itemvalue="PyInstaller" />
+            <item index="23" class="java.lang.String" itemvalue="typed-ast" />
+            <item index="24" class="java.lang.String" itemvalue="astroid" />
+            <item index="25" class="java.lang.String" itemvalue="pycparser" />
+            <item index="26" class="java.lang.String" itemvalue="snowballstemmer" />
+            <item index="27" class="java.lang.String" itemvalue="appdirs" />
+            <item index="28" class="java.lang.String" itemvalue="mccabe" />
+            <item index="29" class="java.lang.String" itemvalue="certifi" />
+            <item index="30" class="java.lang.String" itemvalue="soupsieve" />
+            <item index="31" class="java.lang.String" itemvalue="entrypoints" />
+            <item index="32" class="java.lang.String" itemvalue="grpc-tools" />
+            <item index="33" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="34" class="java.lang.String" itemvalue="grpclib" />
+            <item index="35" class="java.lang.String" itemvalue="wrapt" />
+            <item index="36" class="java.lang.String" itemvalue="cryptography" />
+            <item index="37" class="java.lang.String" itemvalue="google" />
+            <item index="38" class="java.lang.String" itemvalue="click" />
+            <item index="39" class="java.lang.String" itemvalue="appnope" />
+            <item index="40" class="java.lang.String" itemvalue="jedi" />
+            <item index="41" class="java.lang.String" itemvalue="dsdev-utils" />
+            <item index="42" class="java.lang.String" itemvalue="pydocstyle" />
+            <item index="43" class="java.lang.String" itemvalue="idna" />
+            <item index="44" class="java.lang.String" itemvalue="pathspec" />
+            <item index="45" class="java.lang.String" itemvalue="pbr" />
+            <item index="46" class="java.lang.String" itemvalue="yapf" />
+            <item index="47" class="java.lang.String" itemvalue="rope" />
+            <item index="48" class="java.lang.String" itemvalue="h2" />
+            <item index="49" class="java.lang.String" itemvalue="pycodestyle" />
+            <item index="50" class="java.lang.String" itemvalue="requests" />
+            <item index="51" class="java.lang.String" itemvalue="importlib-metadata" />
+            <item index="52" class="java.lang.String" itemvalue="dotty-dict" />
+            <item index="53" class="java.lang.String" itemvalue="flake8" />
+            <item index="54" class="java.lang.String" itemvalue="zipp" />
+            <item index="55" class="java.lang.String" itemvalue="urllib3" />
+            <item index="56" class="java.lang.String" itemvalue="autopep8" />
+            <item index="57" class="java.lang.String" itemvalue="hyperframe" />
+            <item index="58" class="java.lang.String" itemvalue="six" />
+            <item index="59" class="java.lang.String" itemvalue="pyflakes" />
+            <item index="60" class="java.lang.String" itemvalue="stevedore" />
+            <item index="61" class="java.lang.String" itemvalue="parso" />
+            <item index="62" class="java.lang.String" itemvalue="black" />
+            <item index="63" class="java.lang.String" itemvalue="setuptools-scm" />
+            <item index="64" class="java.lang.String" itemvalue="grpcio-tools" />
+            <item index="65" class="java.lang.String" itemvalue="hpack" />
+            <item index="66" class="java.lang.String" itemvalue="toml" />
+            <item index="67" class="java.lang.String" itemvalue="lazy-object-proxy" />
+            <item index="68" class="java.lang.String" itemvalue="pylint" />
+            <item index="69" class="java.lang.String" itemvalue="grpcio" />
+            <item index="70" class="java.lang.String" itemvalue="isort" />
+            <item index="71" class="java.lang.String" itemvalue="pytz" />
+            <item index="72" class="java.lang.String" itemvalue="country-list" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
